@@ -27,5 +27,4 @@ public class HelloServiceConsumerTest {
         assertEquals("Hello david",res);
     }
 
-
 }
